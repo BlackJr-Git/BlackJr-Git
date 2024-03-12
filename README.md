@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Junior Asosa
 - 👀 I’m interested in Web Devellopement and computer sciences
-- 🌱 I’m currently learning Front-End Web Devellopement
+- 🌱 I’m currently learning Back-End Web Devellopement
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail me at juniorasosa@nawtech.net
 
